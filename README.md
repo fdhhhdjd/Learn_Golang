@@ -9,9 +9,12 @@
 
 ## Project: Learn Go Lang with Teacher Tai
 
+## Document standard: https://gobyexample.com/hello-world
+
 ## Team Word: Liên hệ công việc https://profile-forme.com
 
 ## 1. Nguyen Tien Tai( MainTain 🚩).
+
 
 ## Tài Khoản Donate li Cf để có động lực code cho anh em tham khảo 😄.
 
