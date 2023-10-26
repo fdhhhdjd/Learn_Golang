@@ -15,7 +15,11 @@ func main() {
 }
 
 //Todo 1. NguyenTienTai golang
+
 //Todo 2. 1 + 1 and 2
+
 //Todo 3. 7.0/3.0 and 2.3333333333333335
+
 //Todo 4. false
+
 //Todo 5. true
