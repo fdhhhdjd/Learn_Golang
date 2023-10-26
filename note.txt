@@ -1,0 +1,26 @@
+How To Fix ? 
+
+- fix package main info err
+
+" opls was not able to find modules in your workspace.
+When outside of GOPATH, gopls needs to know which modules you are working on.
+You can fix this by opening your workspace to a folder inside a Go module, or
+by using a go.work file to specify multiple modules.
+See the documentation for more information on setting up your workspace:
+https://github.com/golang/tools/blob/master/gopls/doc/workspace.md.go "
+
+---- Solution fix it ! ----
+
+1. into folder root run: go mod init  Learn_Go
+
+2. all friend working guild
+
+step 1 : Open Vscode, and then go to settings.
+
+step 2 : In the search bar , type gopls
+
+step 3 : Just below that you will find settings.json, click on that
+
+step 4 : Paste the below code their "gopls": { "experimentalWorkspaceModule": true, }
+
+step 5 : Save it and restart the Vscode, You are good to go now.
