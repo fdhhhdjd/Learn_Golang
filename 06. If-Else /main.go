@@ -3,17 +3,17 @@ package main
 import "fmt"
 
 func main() {
-	const a int = 23
+	// const a int = 23
 
-	if a == 23 {
-		fmt.Println("This is Tai Dev")
-	} else {
-		fmt.Println("Not must Tai Dev")
-	}
+	// if a == 23 {
+	// 	fmt.Println("This is Tai Dev")
+	// } else {
+	// 	fmt.Println("Not must Tai Dev")
+	// }
 
-	if 8%4 == 0 {
-		fmt.Println("8 is divisible by 4")
-	}
+	// if 8%4 == 0 {
+	// 	fmt.Println("8 is divisible by 4")
+	// }
 
 	if num := 9; num < 0 {
 		fmt.Println(num, "is Hao")
