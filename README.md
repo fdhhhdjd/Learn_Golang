@@ -9,7 +9,7 @@
 
 ## Project: Class Go Lang with Teacher Tai
 
-## Document standard: https://gobyexample.com/hello-world
+## Document standard: https://gobyexample.com
 
 ## Team Word: Liên hệ công việc https://profile-forme.com
 
